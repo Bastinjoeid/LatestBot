@@ -21,9 +21,9 @@ Hᴇʀᴇ ɪs Mʏ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs."""
 ✯ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ  : <a href=https://t.me/sovel_jaison>Sᴏᴠᴇʟ Jᴀɪsᴏɴ </a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : 𝚅1.0.43 [𝙈𝙖𝙟𝙤𝙧]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a  👇
+- This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Mari</a> clone Project
 - All Creditz ❣️ <a href=https://t.me/sovel_jaison>Sᴏᴠᴇʟ Jᴀɪsᴏɴ </a> ❣️ UYIR 🔥🔥
-- Main Channel - <a href=https://t.me/+DAQtiFrXmv5hMWU1</a> 
+- original source code - <a href=https://github.com/Aadhi000/Ajax-Extra-Features>Ajax-Extra-Features</a>  
 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/cinemahub00>Sorry Guys </a>
 
