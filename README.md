@@ -65,7 +65,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https:https://github.com/Bastinjoeid/LatestBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Bastinjoeid/LatestBot.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
