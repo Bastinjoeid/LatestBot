@@ -62,7 +62,13 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bastinjoeid/LatestBot.)
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https:https://github.com/Bastinjoeid/LatestBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
 
 ## Commands
 ```
