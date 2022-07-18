@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Bastinjoeid/LatestBot.",
+    "repository": "https://github.com/Bastinjoeid/LatestBot.",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
